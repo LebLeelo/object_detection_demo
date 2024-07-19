@@ -1,0 +1,26 @@
+<annotation>
+	<folder>59</folder>
+	<filename>6.png</filename>
+	<path>/home/leelo/Road-Sign-Detection/traffic_Data/DATA/59/6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arrow to the right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>145</ymin>
+			<xmax>280</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
